@@ -25,8 +25,8 @@ import (
 )
 
 const (
-	MaxSimul        = 24
-	MaxAttachedChar = 24
+	MaxSimul        = 8
+	MaxAttachedChar = 8
 	MaxPlayerNo     = MaxSimul*2 + MaxAttachedChar
 )
 
